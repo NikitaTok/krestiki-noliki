@@ -28,7 +28,7 @@
 ### Установка и запуск
 
 # Клонируйте репозиторий
-git clone https://github.com/ВАШ_ЛОГИН/krestiki-noliki.git
+git clone https://github.com/NikitaTok/krestiki-noliki.git
 cd krestiki-noliki
 
 # Запустите игру
